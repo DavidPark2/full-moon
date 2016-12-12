@@ -26,4 +26,14 @@
 
 body {
   background-image: url(../images/moonfm.jpg);
+  background-size: cover;
+}
+
+table {
+  margin: 0 auto !important;
+  /*width: 700px;*/
+  position: absolute !important;
+  bottom: 70px !important;
+  align: center !important;
+
 }
